@@ -1,3 +1,4 @@
+## Project Overview
 # InsightPDF - RAG-Powered AI Chatbot
 
 A **PDF-based Retrieval-Augmented Generation (RAG) chatbot** allows users to interact with PDF documents intelligently. Instead of manually searching through pages, you can simply ask questions, and the chatbot extracts relevant information from your PDFs, providing accurate and context-aware answers instantly.
@@ -124,3 +125,6 @@ Contributions are welcome! If you’d like to improve this project, feel free to
 This project is licensed under the [**MIT License**](LICENSE).
 If you fork or use this project, please give credit by mentioning or pinging me: **Sruthi Pulipati** ([GitHub: SruthiPuli](https://github.com/SruthiPuli)).
 
+## About
+
+This project is solely developed by **Sruthi Pulipati** ([GitHub: SruthiPuli](https://github.com/SruthiPuli)).
