@@ -28,12 +28,13 @@ st.markdown("""
         flex-direction: row-reverse;
         margin-left: auto;        
         width: fit-content;
+        padding : 10px;
         
     }
             
     [data-testid="stChatMessage"]:has([data-testid="stChatMessageAvatarAssistant"]) {
         background-color : rgba(240, 242, 246, 0.5);
-        padding : 20px;
+        padding : 10px;
         width: fit-content;
     }
   
