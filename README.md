@@ -1,6 +1,6 @@
-## Project Overview
 # InsightPDF - RAG-Powered AI Chatbot
 
+## Project Overview
 A **PDF-based Retrieval-Augmented Generation (RAG) chatbot** allows users to interact with PDF documents intelligently. Instead of manually searching through pages, you can simply ask questions, and the chatbot extracts relevant information from your PDFs, providing accurate and context-aware answers instantly.
 
 This chatbot built with **Streamlit, LangChain, HuggingFace embeddings, FAISS, and Groq LLM.**
@@ -13,9 +13,9 @@ This chatbot built with **Streamlit, LangChain, HuggingFace embeddings, FAISS, a
 5. [Configuration](#configuration)
 6. [Screenshots](#screenshots)
 7. [Tech Stack](#tech-stack)
-8. [Contributing](#contributing)
+8. [Contributions](#contributions)
 9. [License](#license)
-10. [Acknowledgements](#acknowledgements)
+10. [About](#about)
 
 ## Key Features
 
@@ -116,7 +116,7 @@ If you deploy this application on **Streamlit Cloud**, do **not** use the `.env`
 - **Sentence-Transformers** – Provides pre-trained embedding models; this project uses **`sentence-transformers/all-MiniLM-L6-v2`** for lightweight, high-quality embeddings that balance speed and semantic accuracy.  
 - **Python-dotenv** – Manages environment variables securely during local development.
 
-## Contributing
+## Contributions
 
 Contributions are welcome! If you’d like to improve this project, feel free to fork the repository, create a new branch, and submit a pull request. Bug reports, feature requests, and documentation improvements are all appreciated.
 
