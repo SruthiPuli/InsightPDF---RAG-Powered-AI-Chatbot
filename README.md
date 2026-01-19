@@ -105,3 +105,16 @@ If you deploy this application on **Streamlit Cloud**, do **not** use the `.env`
 
 ## Tech Stack
 
+- **Python** – Core programming language used for application logic.  
+- **Streamlit** – Interactive web framework for building the user interface.  
+- **LangChain** – Provides end-to-end components for building **Retrieval-Augmented Generation (RAG)** pipelines, including document loading, text splitting, embedding integration, vector store management, and seamless LLM orchestration.  
+- **Groq LLM** – Used for **real-time response generation**, leveraging Groq’s **Tensor Streaming Processor (TSP)** architecture to deliver ultra-fast, deterministic, low-latency inference for context-aware answers.  
+- **HuggingFace Embeddings** – Responsible for converting document text and user queries into **semantic vector representations**, enabling accurate similarity-based retrieval.  
+- **FAISS** – High-performance vector database for efficient and fast similarity search over embedded document chunks.  
+- **PyPdfReader** – Extracts and processes text from PDF documents.  
+- **Sentence-Transformers** – Provides pre-trained embedding models; this project uses **`sentence-transformers/all-MiniLM-L6-v2`** for lightweight, high-quality embeddings that balance speed and semantic accuracy.  
+- **Python-dotenv** – Manages environment variables securely during local development.
+
+## Contributing
+
+Contributions are welcome! If you’d like to improve this project, feel free to fork the repository, create a new branch, and submit a pull request. Bug reports, feature requests, and documentation improvements are all appreciated.
