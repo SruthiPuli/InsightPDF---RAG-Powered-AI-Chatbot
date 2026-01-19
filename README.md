@@ -11,7 +11,7 @@ This chatbot built with **Streamlit, LangChain, HuggingFace embeddings, FAISS, a
 4. [Usage](#usage)
 5. [Configuration](#configuration)
 6. [Screenshots](#screenshots)
-7. [Technologies Used](#technologies-used)
+7. [Tech Stack](#tech-stack)
 8. [Contributing](#contributing)
 9. [License](#license)
 10. [Acknowledgements](#acknowledgements)
@@ -55,6 +55,24 @@ Install all required dependencies using the following command:
 pip install -r requirements.txt
 ```
 
+## Usage
+
+- Once the setup is complete, start the Streamlit app by running:
+
+```bash
+# Run the chatbot
+streamlit run app.py
+# Open the URL in your browser (usually http://localhost:8501)
+```
+
+- Upload any **PDF file** using the file uploader in the Streamlit interface.
+
+- Once the document is processed and indexed, start asking questions through the chat input.
+
+- The **chatbot** retrieves relevant context from the PDF and **answers your queries in real time.**
+
+## Configuration 
+
 ### Configure Environment Variables
 
  Ensure your `.env` file is set up with your Groq API key:
@@ -83,19 +101,7 @@ If you deploy this application on **Streamlit Cloud**, do **not** use the `.env`
  # Secrets
  GROQ_API_KEY = "your_actual_api_key_here"
  ```
+## Screenshots
 
-## Usage
+## Tech Stack
 
-- Once the setup is complete, start the Streamlit app by running:
-
-```bash
-# Run the chatbot
-streamlit run app.py
-# Open the URL in your browser (usually http://localhost:8501)
-```
-
-- Upload any **PDF file** using the file uploader in the Streamlit interface.
-
-- Once the document is processed and indexed, start asking questions through the chat input.
-
-- The **chatbot** retrieves relevant context from the PDF and **answers your queries in real time.**
