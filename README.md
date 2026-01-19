@@ -5,7 +5,6 @@ A **PDF-based Retrieval-Augmented Generation (RAG) chatbot** allows users to int
 
 This chatbot built with **Streamlit, LangChain, HuggingFace embeddings, FAISS, and Groq LLM.**
 
-You can check it out and try it live here:
 **Live Demo :** [(https://insightpdf---rag-powered-ai-chatbot.streamlit.app/)](https://insightpdf---rag-powered-ai-chatbot.streamlit.app/)
 
 ## Table of Contents
@@ -124,12 +123,13 @@ If you deploy this application on **Streamlit Cloud**, do **not** use the `.env`
 
 ```bash
 pdf-rag-chatbot/
+├─ assets/                # Images
 ├─ app.py                 # Main Streamlit app
 ├─ requirements.txt       # Python dependencies
-├─ LICENSE                # MIT License
-├─ README.md              # README File                 # PDFs or other document files
 ├─ sample_pdf             # Sample Pdf to upload
-└─ assets/                # Images
+├─ LICENSE                # MIT License
+└─ README.md              # README File              
+               
 
 ```
 ## Contributions
