@@ -121,6 +121,6 @@ Contributions are welcome! If you’d like to improve this project, feel free to
 
 ## License
 
-This project is licensed under the [**MIT License**](https://opensource.org/licenses/MIT).
+This project is licensed under the [**MIT License**](LICENSE).
 If you fork or use this project, please give credit by mentioning or pinging me: **Sruthi Pulipati** ([GitHub: SruthiPuli](https://github.com/SruthiPuli)).
 
