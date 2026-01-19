@@ -112,7 +112,7 @@ If you deploy this application on **Streamlit Cloud**, do **not** use the `.env`
 - **Python** – Core programming language used for application logic.  
 - **Streamlit** – Interactive web framework for building the user interface.  
 - **LangChain** – Provides end-to-end components for building **Retrieval-Augmented Generation (RAG)** pipelines, including document loading, text splitting, embedding integration, vector store management, and seamless LLM orchestration.  
-- **Groq LLM** – Used for **real-time response generation**, leveraging Groq’s **Tensor Streaming Processor (TSP)** architecture to deliver ultra-fast, deterministic, low-latency inference for context-aware answers.  
+- **Groq LLM** – Used for **real-time response generation**, leveraging Groq’s **Tensor Streaming Processor (TSP)** architecture to deliver ultra-fast, deterministic, low-latency inference for context-aware answers. It allows 14,000+ requests in a day for free.
 - **HuggingFace Embeddings** – Responsible for converting document text and user queries into **semantic vector representations**, enabling accurate similarity-based retrieval.  
 - **FAISS** – High-performance vector database for efficient and fast similarity search over embedded document chunks.  
 - **PyPdfReader** – Extracts and processes text from PDF documents.  
@@ -123,7 +123,7 @@ If you deploy this application on **Streamlit Cloud**, do **not** use the `.env`
 
 ```bash
 pdf-rag-chatbot/
-├─ assets/                # Images
+├─ output/                # Images
 ├─ app.py                 # Main Streamlit app
 ├─ requirements.txt       # Python dependencies
 ├─ sample_pdf             # Sample Pdf to upload
