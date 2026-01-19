@@ -21,7 +21,6 @@ st.markdown("""
     }
             
     p, li, textarea{
-        font-size: 18px !important;
         font-weight : 500 !important; 
     }
             
