@@ -118,3 +118,9 @@ If you deploy this application on **Streamlit Cloud**, do **not** use the `.env`
 ## Contributing
 
 Contributions are welcome! If you’d like to improve this project, feel free to fork the repository, create a new branch, and submit a pull request. Bug reports, feature requests, and documentation improvements are all appreciated.
+
+## License
+
+This project is licensed under the [**MIT License**](https://opensource.org/licenses/MIT).
+If you fork or use this project, please give credit by mentioning or pinging me: **Sruthi Pulipati** ([GitHub: SruthiPuli](https://github.com/SruthiPuli)).
+
