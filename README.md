@@ -127,7 +127,8 @@ If you deploy this application on **Streamlit Cloud**, do **not** use the `.env`
 
 ```bash
 pdf-rag-chatbot/
-├─ output/                # Images
+├─ outputs/               # Images, Live Demo Video
+├─ .gitattributes         # Tells Git how to handle files
 ├─ app.py                 # Main Streamlit app
 ├─ requirements.txt       # Python dependencies
 ├─ sample_pdf             # Sample Pdf to upload
