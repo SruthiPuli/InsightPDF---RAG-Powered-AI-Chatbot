@@ -107,6 +107,10 @@ If you deploy this application on **Streamlit Cloud**, do **not** use the `.env`
  ```
 ## Screenshots
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a05b8f68-2147-48f9-b0d9-5e0b75313c2b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2539179f-bf11-475d-9e84-4c8015cd3a91" />
+
+
 ## Tech Stack
 
 - **Python** – Core programming language used for application logic.  
