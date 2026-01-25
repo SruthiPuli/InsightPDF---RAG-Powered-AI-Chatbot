@@ -34,6 +34,12 @@ This chatbot built with **Streamlit, LangChain, HuggingFace embeddings, FAISS, a
 
 ## Installation
 
+### Clone the Repository
+
+```bash
+git clone https://github.com/SruthiPuli/InsightPDF---RAG-Powered-AI-Chatbot.git
+```
+
 ### Optional: Create a Python Virtual Environment
 
 To avoid package dependency issues, it is recommended to create a virtual environment before installing the required libraries. You can skip this step if you prefer installing packages globally.  
