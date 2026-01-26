@@ -45,6 +45,7 @@ This chatbot built with **Streamlit, LangChain, HuggingFace embeddings, FAISS, a
 
 ```bash
 git clone https://github.com/SruthiPuli/InsightPDF---RAG-Powered-AI-Chatbot.git
+cd InsightPDF---RAG-Powered-AI-Chatbot
 ```
 
 ### Optional: Create a Python Virtual Environment
