@@ -7,13 +7,20 @@ This chatbot built with **Streamlit, LangChain, HuggingFace embeddings, FAISS, a
 
 **Live Demo :** [(https://insightpdf---rag-powered-ai-chatbot.streamlit.app/)](https://insightpdf---rag-powered-ai-chatbot.streamlit.app/)
 
+## Screenshots
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a05b8f68-2147-48f9-b0d9-5e0b75313c2b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2539179f-bf11-475d-9e84-4c8015cd3a91" />
+
+
+
 ## Table of Contents
 1. [Project Overview](#project-overview)
-2. [Key Features](#key-features)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Configuration](#configuration)
-6. [Screenshots](#screenshots)
+2. [Screenshots](#screenshots)
+3. [Key Features](#key-features)
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [Configuration](#configuration)
 7. [Tech Stack](#tech-stack)
 8. [Folder Structure](#folder-structure)
 9. [Contributions](#contributions)
@@ -111,11 +118,6 @@ If you deploy this application on **Streamlit Cloud**, do **not** use the `.env`
  # Secrets
  GROQ_API_KEY = "your_actual_api_key_here"
  ```
-## Screenshots
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a05b8f68-2147-48f9-b0d9-5e0b75313c2b" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2539179f-bf11-475d-9e84-4c8015cd3a91" />
-
 
 ## Tech Stack
 
